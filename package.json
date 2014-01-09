@@ -1,0 +1,19 @@
+{
+  "name": "image-viewer",
+  "version": "0.0.0",
+  "description": "A simple image viewer that allows for zooming & panning",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skalnik/image-viewer.git"
+  },
+  "author": "Mike Skalnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skalnik/image-viewer/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.8.0"
+  }
+}

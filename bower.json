@@ -1,0 +1,21 @@
+{
+  "name": "image-viewer",
+  "version": "0.0.0",
+  "authors": [
+    "Mike Skalnik <mike.skalnik@gmail.com>"
+  ],
+  "main": "dist/image-viewer.js",
+  "keywords": [
+    "image",
+    "viewer",
+    "pan",
+    "zoom"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/skalnik/image-viewer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
